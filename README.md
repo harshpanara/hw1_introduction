@@ -61,9 +61,9 @@ In ROS (Robot Operating System), a **launch file** is used to automate the proce
 
 <li> Include the locations.png and norms.png figures for the plan crown.txt. Make sure the plots contain labelled axes and a title. </li>&nbsp
 
-![crown-jpg](crownlocations.png)
+![crown-jpg](crown9locations.png)
 
-![crown-norms-jpg](crownnorms.png)
+![crown-norms-jpg](crown8norms.png)
 
 <li> Optional for undergrad, mandatory for graduate: Include your own plan file, any code you wrote to generate it, and the resulting locations.png figure. </li>&nbsp
 We have tried to include 4 different path files and used a python code to generate the same. Generator.py file and path files are uploaded in the same directory. &nbsp
