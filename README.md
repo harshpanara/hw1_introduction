@@ -66,7 +66,7 @@ In ROS (Robot Operating System), a **launch file** is used to automate the proce
 ![crown-norms-jpg](crown8norms.png)
 
 <li> Optional for undergrad, mandatory for graduate: Include your own plan file, any code you wrote to generate it, and the resulting locations.png figure. </li>&nbsp
-I have tried to include 4 different path files and used a python code to generate the same. Generator.py file and path files are uploaded in the same directory. &nbsp
+I have tried to include 4 different path files and used a python code to generate the same. Generate_path.py file and path files are uploaded in the same directory. &nbsp
 Every path have different images generated , Path1 has increasing steering angles and it starts at (0,0,0.0). Path2 starts at (2,2,0.785) with varying velocity and angles. Path3 starts at (-1,1,-0.785) with different velocities and angles. Path4 starts at (3,-3,1.5708) with a pattern of velocities and angles.&nbsp
 
 ### Images for Different Path
