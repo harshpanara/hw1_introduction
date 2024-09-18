@@ -71,6 +71,17 @@ Every path have different images generated , Path1 has increasing steering angle
 
 ### Images for Different Path
 
+![path1location-jpg](path1locations.png)
+![path1-norms-jpg](path1norms.png)
+![path2location-jpg](path2locations.png)
+![path2-norms-jpg](path2norms.png)
+![path3location-jpg](path3locations.png)
+![path3-norms-jpg](path3norms.png)
+![path4location-jpg](path4locations.png)
+![path4-norms-jpg](path4norms.png)
+
+
+
 </ol>
 
 ### Submission 
