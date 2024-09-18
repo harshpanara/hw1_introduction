@@ -81,9 +81,10 @@ Every path have different images generated , Path1 has increasing steering angle
 ![path4-norms-jpg](path4norms.png)
 
 
-### Images for Prime Test - Question 1
+### Reference Images for Prime Test - Question 1
 
 ![primetestque1](primetest1.png)
+![primetestque2](primetest3.png)
 ![primetestque3](primetest2.png)
 
 </ol>
@@ -91,7 +92,4 @@ Every path have different images generated , Path1 has increasing steering angle
 ### Submission 
 hw1_introduction is submitted on Gradescope.
 
-### Reference Images
-More images are in the hw1_introduction/src/writeup directory.
-Below are some more reference Images which were taken while doing the assignment.
-![The title of your image](imageName.png)
+
