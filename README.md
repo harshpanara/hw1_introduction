@@ -2,7 +2,7 @@
 ROS- Homework Assignment1
 
 ## Overview:
-This is Implemented by Harsh Panara - hp475@cornell.edu
+This readme file is for assignment 1 of Foundation of Robotics written by Harsh Panara - hp475@cornell.edu.
 
 
 ## Deliverables
@@ -46,15 +46,19 @@ In ROS (Robot Operating System), a **launch file** is used to automate the proce
 ```
 
 <li> Include your RViz screenshot showing the car. </li>&nbsp
-![RVIZCarScreenshot](hw1_introduction/locations.png)
+
+![RVIZCarScreenshot](figure8locations.png)
 
 <li> Include your runtime_comparison.png figure for the different norm implementations. </li>&nbsp
 
-![Runtime-Comparison-Different Norms](locations(1).png)
+![Runtime-Comparison-Different Norms](runtime_comparison.png)
 
 <li> Include the locations.png and norms.png figures for the plan figure_8.txt. Make sure the plots contain labelled axes and a title. </li>&nbsp
-![Locations-jpg](locations (1).png)
-![Norms-jpg](norms (1).png)
+
+![Locations-jpg](figure8_locations.png)
+
+![Norms-jpg](figure8_norms.png)
+
 <li> Include the locations.png and norms.png figures for the plan crown.txt. Make sure the plots contain labelled axes and a title. </li>&nbsp
 
 <li> Optional for undergrad, mandatory for graduate: Include your own plan file, any code you wrote to generate it, and the resulting locations.png figure. </li>&nbsp
